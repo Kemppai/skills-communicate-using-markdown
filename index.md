@@ -14,3 +14,5 @@ code block
 - list with dash
 - list with asterisk
 - list with plus
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
